@@ -1,6 +1,6 @@
 # persistent
 
-> A Vue.js project
+> A Vue.js project to demo a way to use vuex and generic components to create a UI that can be automatically re-rendered from a saved state.
 
 ## Build Setup
 
